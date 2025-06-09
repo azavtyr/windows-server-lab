@@ -2,11 +2,6 @@
 
 IT lab designed to simulate real-world IT support and help desk scenarios using Windows Server and Active Directory.
 
-## Environment
-
-- Hypervisor: Proxmox
-- Domain Controller: Windows Server 2022
-
 ## Project Purpose
 
 This lab is designed for:
@@ -14,3 +9,12 @@ This lab is designed for:
 - Develop Windows Server administration skills.
 - Learn how to manage and configure Active Directory environments.
 - Develop and document a foundational understanding of enterprise IT tools and workflows commonly employed in professional environments.
+
+## Environment
+
+- Hypervisor: Proxmox
+- Domain Controller: Windows Server 2022
+
+![Proxmox Screenshot](assets/proxmox-overview.png)
+![Windows Server Screenshot](assets/windows-server.png)
+
