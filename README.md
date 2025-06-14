@@ -14,7 +14,6 @@ This lab is designed for:
 
 - Hypervisor: Proxmox
 - Domain Controller: Windows Server 2022
-
-![Proxmox Screenshot](assets/proxmox-overview.png)
-![Windows Server Screenshot](assets/windows-server.png)
+- Client Machines: Windows 11
+- Domain Controller: prod-env.local
 
