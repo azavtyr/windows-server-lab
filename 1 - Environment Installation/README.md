@@ -80,7 +80,7 @@ When installing Windows on Proxmox, you must load VirtIO drivers during setup in
 
 2. **Install Windows 11**:
 
-	- **Important:** Windows Home Edition does not support joining Active Directory domains. Use Pro, Education or Enterprise editions instead.
+  - **Important:** Windows Home Edition does not support joining Active Directory domains. Use Pro, Education or Enterprise editions instead.
   - Start the VM and follow the Windows 11 installation wizard.
   - Load SCSI driver.
   - Configure the user account and complete the setup.
