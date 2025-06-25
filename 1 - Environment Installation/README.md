@@ -19,6 +19,10 @@ This document explains the setup and configuration of virtualized Proxmox enviro
 - Windows 11 ISO
 - Basic knowledge of virtualization, networking, and Windows administration
 
+## Issues
+
+- [Active Directory Breaks When Using NAT](https://github.com/azavtyr/notes/blob/main/Active%20Directory%20Breaks%20When%20Using%20NAT.md)
+
 ## Documenting
 
 ### 1. Install Proxmox VE
